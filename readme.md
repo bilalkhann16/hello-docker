@@ -15,7 +15,7 @@
 ```docker pull hello-docker ```
 
 ### running docker container.
-```docker ps ```
+```docker ps ```  
 ```docker ps -a ```
 
 ### start the container in an interactive mode.
